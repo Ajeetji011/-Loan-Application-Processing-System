@@ -1,0 +1,30 @@
+Name: ajeet
+Age: 23
+Monthly Income: $122222.00
+Loan Amount: $12222.00
+Loan Type: Car Loan
+----------------------------------------
+Name: ajeet
+Age: 23
+Monthly Income: $122222.00
+Loan Amount: $122222.00
+Loan Type: Car Loan
+----------------------------------------
+Name: ajeet
+Age: 23
+Monthly Income: $500000.00
+Loan Amount: $150000.00
+Loan Type: Personal Loan
+----------------------------------------
+Name: ajeet
+Age: 26
+Monthly Income: $52000.00
+Loan Amount: $100000.00
+Loan Type: Personal Loan
+----------------------------------------
+Name: ajeet
+Age: 23
+Monthly Income: $150005.00
+Loan Amount: $100000.00
+Loan Type: Personal Loan
+----------------------------------------
